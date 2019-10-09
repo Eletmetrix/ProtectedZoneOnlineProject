@@ -5166,3 +5166,9 @@ Make sure 'FirstPersonCharacter' has been compiled for  Get Player Name
 [2019.10.09-17.37.33:844][599]LogMaterial: Display: Missing cached shader map for material GlowSaberMaterial, compiling. 
 [2019.10.09-17.37.34:164][599]LogMaterial: Display: Missing cached shader map for material GlowSaberMaterial, compiling. 
 [2019.10.09-17.37.34:324][599]LogMaterial: Display: Missing cached shader map for material GlowSaberMaterial, compiling. 
+[2019.10.09-17.37.34:890][599]LogUObjectHash: Compacting FUObjectHashTables data took  54.96ms
+[2019.10.09-17.37.34:940][599]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.09-17.37.42:918][599]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.09-17.37.42:926][599]TextureStreamingBuild: Display: Compiling optional shaders took 8.036 seconds.
+[2019.10.09-17.37.43:177][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.10.09-17.37.43:550][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
